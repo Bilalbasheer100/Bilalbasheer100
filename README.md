@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Blockchain,Solidity developer with huge intrest in crypto space<br>👯 I’m looking for jobs in web3 or web2 space<br💻 i have also experience in web2 fullstack devolopment(mern,nextjs & some other popular frameworks and technologies) <br>🌱 I’m currently improving my skills in Blockchain space<br>💬 shoot me an Email or on LinkedIn ;)<br>⚡ bilalbasheer369@gmail.com<br>🖥️**leetcode**:https://leetcode.com/__BILAL__/
+🔭 I’m a Blockchain,Solidity developer with huge intrest in crypto space<br>👯 I’m looking for jobs in web3 or web2 space<br💻 i have also experience in web2 fullstack devolopment(mern,nextjs & some other popular frameworks and technologies) <br>🌱 I’m currently improving my skills in Blockchain space<br>💬 shoot me an Email or on LinkedIn ;)<br>⚡ bilalbasheer369@gmail.com<br>🖥️ **leetcode**:https://leetcode.com/__BILAL__/
 
 
 ## 🌐 Socials:
