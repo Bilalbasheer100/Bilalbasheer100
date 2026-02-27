@@ -1,7 +1,7 @@
 # 💫 About Me:
 Fintech Engineer based in DIFC, Dubai, specializing in investment and trading systems infrastructure. Sole engineer at a Shariah-compliant asset management firm, responsible for designing, deploying, and securing production-grade financial systems that support portfolio managers and client-facing investment workflows.
 
-Strong expertise in backend architecture, financial data pipelines, broker API integrations, CI/​CD, and cloud infrastructure within regulated financial environments.
+Strong expertise in backend architecture, financial data pipelines, broker API integrations, CI/​CD, and cloud infrastructure within regulated financial environments.<br>
 **leetcode**:https://leetcode.com/__BILAL__/
 
 
